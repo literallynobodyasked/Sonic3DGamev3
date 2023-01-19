@@ -1,0 +1,45 @@
+OutsetIsland
+OutsetIsland
+OutsetIsland
+1
+Collision 7
+1.0 1.0 1.0
+0.0 0.0 0.0
+0.0 0.0 0.0
+0.3 0.3 0.45
+0.1922 0.3961 0.9059
+0.05 0.05 0.075
+0.00005 2.0
+56.5
+-247 22
+1
+2
+res/Audio/BGM/outset_intro.ogg
+res/Audio/BGM/outset_loop.ogg
+927 323.9218 -942
+88 6
+-500
+
+71 -1168 138 -497
+#9 1368 765 749.5
+# 32 904.7235 322.92172 -975.99866 -146 1 I stepped on seagull poop...
+32 -1120.43 3 1028.1 -90 1 	Sorry, I just gave the pearl to some-kid in a green tunic and white tights
+
+# Floating platform 
+50 -1120.43 3 1028.1 0
+
+# Lost Chao
+81 -54.95 839.55, 678.88 0
+
+# Low Quality Water
+37 -4000  4000
+37 -4000 -4000
+37  4000  4000
+37  4000 -4000
+
+73 918.7 362.9 -966.7 1     0 0 0 0 1
+73 382.3 211.2 731.6 2      0 0 0 0 1
+73 -1724.3 443.5 -154.6 3   0 0 0 0 1
+73 1355.1 793.3 626.4 2     0 0 0 0 1
+
+74 1

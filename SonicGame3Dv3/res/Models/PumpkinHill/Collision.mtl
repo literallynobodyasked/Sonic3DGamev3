@@ -1,0 +1,21 @@
+# Material Count: 2
+
+newmtl nodig
+Ns 20
+Ni 1.000000
+Tr 1
+d 1.000000
+scrollX 0
+scrollY 0
+map_Kd nodig.png
+
+newmtl diggable
+Ns 20
+Ni 1.000000
+Tr 1
+d 1.000000
+type 2
+scrollX 0
+scrollY 0
+map_Kd diggable.png
+

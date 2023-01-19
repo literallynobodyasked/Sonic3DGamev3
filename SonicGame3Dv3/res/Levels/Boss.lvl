@@ -1,0 +1,32 @@
+Boss
+End
+Boss
+1
+End 1
+0.7 0.9 1.0
+0.0 0.0 0.0
+0.0 0.0 0.0
+0.3 0.3 0.45
+0.0 0.0 0.0
+0.05 0.05 0.075
+0.00005 2.0
+104
+90 12
+1
+2
+res/Audio/BGM/boss_intro.ogg
+res/Audio/BGM/boss_loop.ogg
+-900 2005.5 0
+255 6
+1700
+
+# Sonic
+6 0 2010 0
+
+0 0 0 0
+
+# Sky Sphere
+7 Sky SkySphereModelHD MTL_Space 8 0
+
+# Boss Manager
+89
